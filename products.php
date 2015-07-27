@@ -61,8 +61,8 @@ $paypal_id='dsbhalala99-facilitator@gmail.com';  // sriniv_1293527277_biz@inbox.
                     <input type='hidden' name='no_shipping' value='1'>
                     <input type='hidden' name='currency_code' value='USD'>
                     <input type='hidden' name='handling' value='0'>
-                    <input type='hidden' name='cancel_return' value='http://localhost/paypal/cancel.php'>
-                    <input type='hidden' name='return' value='http://localhost/paypal/success.php'>
+                    <input type='hidden' name='cancel_return' value='https://paypal-rttweet.rhcloud.com/cancel.php'>
+                    <input type='hidden' name='return' value='https://paypal-rttweet.rhcloud.com/success.php'>
 
                     <input type="image" src="https://www.sandbox.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                     <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
