@@ -1,8 +1,8 @@
 <?php
 
-define("DB_HOST", "localhost");
-define("DB_USERNAME", "root");
-define("DB_PASSWORD", "1234");
+define("DB_HOST", "mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/");
+define("DB_USERNAME", "adminiKgSKKd");
+define("DB_PASSWORD", "PHJB4ZupNhG4");
 define("DB_DATABASE", "paypal");
 
 
